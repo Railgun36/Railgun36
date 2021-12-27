@@ -11,4 +11,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/nico-hammersen-16652b216/" width="22px" src="https://www.linkedin.com/in/nico-hammersen-16652b216/" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/nico-hammersen-16652b216/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
