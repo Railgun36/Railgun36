@@ -3,7 +3,7 @@
 
 ## I'm working as an Intern in Robotic Process Automation, I'm a Student in Digitalization and I'm a selftought Hobby-Coder 
 
-- 🎲 Calculator-App for Mahjongg Game ✔️
+- 🎲 Calculator-App for [Mahjongg Game] ✔️
 - ❌ TikTakToe Terminal: Single/Multi-Player ✔️
 - 👩🏻‍💻 Interested in Big Data & Data Analytics
 - 👨‍🍳 Hobbys: SmartHome, RaspberryPi, Cooking
@@ -27,3 +27,4 @@
 
 [linkedin]: https://www.linkedin.com/in/nico-hammersen-16652b216/
 [Railgun36]: https://github.com/Railgun36
+[Mahjongg Game]: https://github.com/Railgun36/mahjongg-game
