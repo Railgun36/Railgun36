@@ -7,7 +7,6 @@
 - ❌ TikTakToe Terminal: Single/Multi-Player ✔️
 - 👩🏻‍💻 Interested in Big Data & Data Analytics
 - 👨‍🍳 Hobbys: SmartHome, RaspberryPi, Cooking
-- 🏆 2022 Goal: contribute, contribute, contribute
 
 ### Connect with me:
 
